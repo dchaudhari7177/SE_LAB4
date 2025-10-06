@@ -1,0 +1,7 @@
+Place your sound files here:
+- paddle_hit.wav
+- wall_bounce.wav  
+- score.wav
+
+You can download free sound effects from freesound.org or similar sites.
+The game will work without sound files, but won't play audio.
